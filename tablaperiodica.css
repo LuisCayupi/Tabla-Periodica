@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#contenedor{
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-weight: bold;
+    font-size: 16px;
+    color: rgb(25, 19, 162);
+}
+
+th{
+    color: rgb(253, 47, 105);
+}
+
+td{
+    border: solid 1px rgb(120, 137, 170);
+    color: black;
+}
+
+.vacio{
+    border: none;
+}
+
+.grupo1{
+    background-color: rgb(104, 155, 255);
+   
+    text-align: center;
+    padding: 5px;
+}
+
+.grupo2{
+    background-color:rgb(253, 154, 152);
+    text-align: center;
+    padding: 5px;
+}
+
+.grupo3{
+    background-color: rgb(254, 203, 0);
+    text-align: center;
+    padding: 5px;
+}
+
+.grupo4{
+    background-color: rgb(31, 202, 33);
+    text-align: center;
+    padding: 5px;
+}
+
+.espacio{
+    padding: 5px;
+    border: none;
+    color:  rgb(253, 47, 105);
+}
+
+    
+    
